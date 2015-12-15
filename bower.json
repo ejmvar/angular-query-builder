@@ -1,0 +1,23 @@
+{
+  "name": "angular-query-builder",
+  "main": ["angular-query-builder.js","css/styles.css"],
+  "homepage": "https://github.com/ralphowino/angular-query-builder",
+  "authors": [
+    "Raphael Owino <raphael@ralphowino.com>"
+  ],
+  "description": "Query builder using angular",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "query",
+    "builder"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
