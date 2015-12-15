@@ -10,4 +10,4 @@ This was inspired by: https://github.com/kindohm/knockout-query-builder
 
 #Installation
 
-bower install angular-query-builder 
+``bower install angular-query-builder ``
